@@ -1,0 +1,22 @@
+S.No,HEA combinations,,
+1,CrFeNiSiTi,,BCC
+2,CrFeNiSiV,,BCC
+3,CrFeNiSiMo,,BCC
+4,CrFeNiTiV,,BCC
+5,CrFeNiTiMo,,BCC
+6,CrFeNiVMo,,BCC
+7,CrFeSiTiV,,BCC
+8,CrFeSiTiMo,,BCC
+9,CrFeSiVMo,,BCC
+10,CrFeTiVMo,,BCC
+11,CrNiSiTiV,,BCC
+12,CrNiSiTiMo,,FCC+BCC
+13,CrNiSiVMo,,FCC+BCC
+14,CrNiTiVMo,,FCC+BCC
+15,CrSiTiVMo,,MIP
+16,FeNiSiTiV,,MIP
+17,FeNiSiTiMo,,MIP
+18,FeNiSiVMo,,FCC+BCC
+19,FeNiTiVMo,,MIP
+20,FeSiTiVMo,,MIP
+21,NiSiTiVMo,,MIP
